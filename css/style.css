@@ -538,17 +538,16 @@ margin-top: 40px;
   margin-top:20px; 
 }
 
-
+.footer-foot span{
+  color:white;font-size:20px;
+}
 
 .span{
   color:white;
 margin-top:80px;
 }
 
-.footer-foot{
-  display: flex;
-  justify-content: space-around;
-}
+
 
 .social-icon ul li {
   list-style: none;
@@ -594,8 +593,29 @@ transition:0.5s ease-in-out;
 
 
 
+ <div class="footer-foot">
+       <div class="span">
+        <span>© Company Name 2020. All rights reserved.</span>
+       </div>
+
+       <div class="social-icon">
+
+        <ul>
+          <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i>
+</a></li>
+          <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i>
+</a></li>
+             <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i>
+</a></li>
 
 
+        </ul>
+        
+       </div>
+       </div>
+     </div>
+     
 
 
-
+     </div>
+ 

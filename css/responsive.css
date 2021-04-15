@@ -47,10 +47,17 @@
   justify-content: space-between;
 } 
 
+.footer-desc p{
+  font-size:5px;
+  width:50%;
+}
 
 .book-table{
-  height:28vh;
+  height:80vh;
 }
+
+
+
 .banner{
   height:16vh;
 }
@@ -67,11 +74,11 @@
 }
 
 .banner h1{
-  font-size:25px;
+  font-size: 18px;
 }
 
 .banner h2{
-  font-size:20px;
+  font-size: 15px;
 }
 
 .banner p{
@@ -88,11 +95,11 @@ img.img-fluid{
 }
 
 .contact-menu img{
-  
+  width:10%;
 }
 
 .contact-menu{
-  margin-bottom: 10px;
+  margin-bottom: -63px;
 }
 
 .contact-menu span {
@@ -228,17 +235,100 @@ text-align: center;
     letter-spacing: 1px;
 
 }
+.up p{
+  width: 59%;
+font-size:6px;
+}
+.leftb p {
+font-size: 6px;
+
+  }
+.middleb p{
+  font-size: 6px;
+
+}
+
+.leftdes h1{
+  font-size:14px;
+}
+
+.leftdes p{
+  width:51%;
+  font-size:6px;
+
+}
+
+.rightb p{
+    font-size:6px;
+
+}
+
+.leftdes h3 {
+font-size:15px;
+
+}
+
+.table2 {
+    margin-top: 20px;
+    height: 30px;
+    padding: 10px;
+    width: 52%;
 
 
-
-
-
-
-
-
+.socail-icon ul{
+  display: inline-flex;
+}
 
 
   /* CSS */
 
   
+}
+
+.social-icon ul li a i{
+
+color: white;
+    text-align: center;
+    margin-top: 2px;
+    height: 30px;
+    width: 30px;
+    background-color: tomato;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 70%;
+    transition: 0.5s ease-in-out;
+    font-size:9px;
+}
+.footer-logo img.img-fluid{
+  width:20%;
+}
+.footer {
+padding: 0;
+}
+
+.footer-foot span{
+  font-size: 6px;
+}
+
+.social-icon ul{
+      padding-left: 0rem;
+}
+
+.table h1 {
+    color: #3d2514;
+    font-weight: 900;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Alfa Slab One', cursive;
+    letter-spacing: 3px;
+    margin-bottom: 70px;
+
+}
+
+.table1 {
+    height: 30px;
+    padding: 10px;
+    width: 52%;
+    margin-top: 60px;
+}
 }
