@@ -491,13 +491,14 @@ height:54px;
 padding: 10px;
 width:30%;
 
+
 }
 
 .table3{
  margin-top:20px;
 height:59px;
 padding: 20px;
-width:32%;
+width:30%;
 color: white;
     background-color: red;
     font-size: 16px;
@@ -505,6 +506,18 @@ cursor:pointer;
 
 }
 
+
+.table4{
+  margin-top:20px;
+height:59px;
+padding: 20px;
+width:32%;
+color: white;
+    background-color: red;
+    font-size: 16px;
+cursor:pointer;
+margin-left:10px;
+}
 .footer-section{
   width:100%;
   background-image: url(../image/logof2.png);
