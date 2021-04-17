@@ -14,7 +14,7 @@
   height:42vh;
 }
 .book-table{
-  height:42vh;
+  height:30vh;
 }
 
 .left{
@@ -41,9 +41,9 @@
   
 
 .footer-section{
-  height: 42vh;
-    padding: 30px;
-    margin-top: 26px;
+  height: 40vh;
+    padding: 13px;
+   
 }
 
 .footer-foot{
@@ -329,9 +329,16 @@ padding: 0;
 }
 
 .table1 {
-    height: 30px;
-    padding: 10px;
-    width: 52%;
+    height:59px;
+  
+    width: 30%;
     margin-top: 60px;
+}
+
+
+
+.button button{
+ 
+width:47%;
 }
 }

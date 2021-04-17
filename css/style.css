@@ -478,11 +478,11 @@ color: #3d2514;
  margin-bottom:70px;
 }
 
-input.table1{
+input .table1{
 margin-top:20px;
 height:54px;
 padding: 10px;
-width:30%;
+width:34%;
 }
 
 .table2{
@@ -494,27 +494,21 @@ width:30%;
 
 }
 
-.table3{
- margin-top:20px;
-height:59px;
-padding: 20px;
-width:30%;
-color: white;
-    background-color: red;
-    font-size: 16px;
-cursor:pointer;
 
+.butt{
+  margin-bottom:40px;
 }
-
-.table-1st button{
+.butt button{
   margin-top:20px;
-height:59px;
-padding: 20px;
+height:40px;
+line-height: 20px;
+
 width:30%;
 color: white;
     background-color: red;
     font-size: 16px;
 cursor:pointer;
+
 
 }
 
@@ -527,9 +521,7 @@ cursor:pointer;
  background-size: cover;
  height: 80vh;
  padding:40px;
-
- margin:30px;
-
+ margin:0;
 }
 
 .footer{
@@ -610,72 +602,4 @@ transition:0.5s ease-in-out;
 
 
 
- <div class="footer-foot">
-       <div class="span">
-        <span>© Company Name 2020. All rights reserved.</span>
-       </div>
-
-       <div class="social-icon">
-
-        <ul>
-          <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i>
-</a></li>
-          <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i>
-</a></li>
-             <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i>
-</a></li>
-
-
-        </ul>
-        
-       </div>
-       </div>
-     </div>
-     
-
-
-     </div>
  
-
-
-
-
-
-
- <div class="book-table">
-  <div class="container">
-
-<div class="table">
-   
-   <h3>Reservation</h3>
-   <h1>Book your Table</h1>
-
-  <div class="table-1st">
-    <form>
-      <input type="text"  name=""
-    placeholder="NAME" class="table1" >
-  <input type="email" name=""
-  placeholder="EMAIL" class="table1">
-     </div>
-     <div>
-     <input type="date" name=""
-     placeholder="Date" class="table2"> 
-     <input type="text" name=""
-     placeholder="TIME" class="table2">
-
-  </div>
-
-  <div>
-    <input type="number" name=""
-    placeholder="PEOPLE" class="table2">
-
-    <input type="submit" name=""
-    value="FIND A TABLE" class="table3">
-  </form>
-  </div>
-  
-</div>
-    
-  </div>
-  
-</div>
