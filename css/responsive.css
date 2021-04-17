@@ -24,6 +24,7 @@
 
 
 
+
   /* CSS */
   
 }
@@ -40,7 +41,9 @@
   
 
 .footer-section{
-  height:42vh;
+  height: 42vh;
+    padding: 30px;
+    margin-top: 26px;
 }
 
 .footer-foot{
@@ -274,7 +277,7 @@ font-size:15px;
     padding: 10px;
     width: 52%;
 
-
+}
 .socail-icon ul{
   display: inline-flex;
 }

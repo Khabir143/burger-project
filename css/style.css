@@ -471,18 +471,18 @@ padding:26px 0;
 .table h1{
 color: #3d2514;
     font-weight:900;
-  font-size:42px;
+  font-size:50px;
  text-transform: uppercase;
  font-family: 'Alfa Slab One', cursive;
  letter-spacing:3px;
  margin-bottom:70px;
 }
 
-.table1{
+input.table1{
+margin-top:20px;
 height:54px;
 padding: 10px;
 width:30%;
-margin-top:60px;
 }
 
 .table2{
@@ -506,18 +506,19 @@ cursor:pointer;
 
 }
 
-
-.table4{
+.table-1st button{
   margin-top:20px;
 height:59px;
 padding: 20px;
-width:32%;
+width:30%;
 color: white;
     background-color: red;
     font-size: 16px;
 cursor:pointer;
-margin-left:10px;
+
 }
+
+
 .footer-section{
   width:100%;
   background-image: url(../image/logof2.png);
@@ -525,6 +526,9 @@ margin-left:10px;
  background-repeat: no-repeat;
  background-size: cover;
  height: 80vh;
+ padding:40px;
+
+ margin:30px;
 
 }
 
