@@ -479,7 +479,7 @@ color: #3d2514;
 }
 
 .table1{
-height:30px;
+height:54px;
 padding: 10px;
 width:30%;
 margin-top:60px;
@@ -487,7 +487,7 @@ margin-top:60px;
 
 .table2{
 margin-top:20px;
-height:30px;
+height:54px;
 padding: 10px;
 width:30%;
 
@@ -619,3 +619,46 @@ transition:0.5s ease-in-out;
 
      </div>
  
+
+
+
+
+
+
+ <div class="book-table">
+  <div class="container">
+
+<div class="table">
+   
+   <h3>Reservation</h3>
+   <h1>Book your Table</h1>
+
+  <div class="table-1st">
+    <form>
+      <input type="text"  name=""
+    placeholder="NAME" class="table1" >
+  <input type="email" name=""
+  placeholder="EMAIL" class="table1">
+     </div>
+     <div>
+     <input type="date" name=""
+     placeholder="Date" class="table2"> 
+     <input type="text" name=""
+     placeholder="TIME" class="table2">
+
+  </div>
+
+  <div>
+    <input type="number" name=""
+    placeholder="PEOPLE" class="table2">
+
+    <input type="submit" name=""
+    value="FIND A TABLE" class="table3">
+  </form>
+  </div>
+  
+</div>
+    
+  </div>
+  
+</div>
